@@ -2,4 +2,5 @@ venv/
 # *.sqlite3
 # db.sqlite3
 movie/__pycache__/
-.idea/
+.idea/c
+venv/
